@@ -15,7 +15,7 @@ Build binary and copy it to your /usr/bin (<u>using sudo</u>).
 git clone https://github.com/PutaMadre1337/tammy && cd tammy && chmod +x installation.sh && ./installation.sh
 ```
 
-## Using Make for linux
+## Using Make
 ```sh
 git clone https://github.com/PutaMadre1337/tammy && cd tammy && make build
 ```
